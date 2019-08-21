@@ -1,0 +1,53 @@
+METADATA OF THE PDF DOCUMENT 
+ 
+date : 2013-06-30T11:49:02Z
+ 
+pdf:PDFVersion : 1.5
+ 
+xmp:CreatorTool : convertonlinefree.com
+ 
+access_permission:modify_annotations : true
+ 
+access_permission:can_print_degraded : true
+ 
+dcterms:created : 2013-06-30T11:49:02Z
+ 
+Last-Modified : 2013-06-30T11:49:02Z
+ 
+dcterms:modified : 2013-06-30T11:49:02Z
+ 
+dc:format : application/pdf; version=1.5
+ 
+Last-Save-Date : 2013-06-30T11:49:02Z
+ 
+access_permission:fill_in_form : true
+ 
+meta:save-date : 2013-06-30T11:49:02Z
+ 
+pdf:encrypted : false
+ 
+modified : 2013-06-30T11:49:02Z
+ 
+Content-Type : application/pdf
+ 
+meta:creation-date : 2013-06-30T11:49:02Z
+ 
+created : Sun Jun 30 12:49:02 GMT+01:00 2013
+ 
+access_permission:extract_for_accessibility : true
+ 
+access_permission:assemble_document : true
+ 
+xmpTPg:NPages : 7
+ 
+Creation-Date : 2013-06-30T11:49:02Z
+ 
+access_permission:extract_content : true
+ 
+access_permission:can_print : true
+ 
+producer : convertonlinefree.com
+ 
+access_permission:can_modify : true
+ 
+     
